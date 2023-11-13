@@ -1,0 +1,33 @@
+{
+    "name": "foo",
+    "name-i18n": {
+        "en-US": "foo",
+        "zh-CN": "foo"
+    },
+    "version": "v0.0.0",
+    "description": "this is foo module description",
+    "description-i18n": {
+        "en-US": "this is foo module description",
+        "zh-CN": "这是foo测试模块的详细说明"
+    },
+    "images" : [],
+    "application": "test",
+    "depends": [""],
+    "externalDependencies": {
+        "node_module": {
+            "foo": "1.0.0"
+        },
+        "binary":{
+            "git": "0.12.28"
+        }
+    },
+    "license": "Apache 2.0",
+    "homepage": "https://github.com/oryon-cloud/foo",
+    "author": {
+        "name": "Oryon team",
+        "email": "wangbuke@gmail.com",
+        "url": "https://github.com/oryon-cloud"
+    },
+    "repository": "https://github.com/oryon-cloud/foo.git",
+    "main": "index.ts"
+}
