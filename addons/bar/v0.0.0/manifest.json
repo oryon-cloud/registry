@@ -9,7 +9,7 @@
     "description-i18n": {
     },
     "images" : [],
-    "application": "test",
+    "domain": "test",
     "depends": [""],
     "externalDependencies": {
         "node_module": {

@@ -11,7 +11,7 @@
         "zh-CN": "这是foo测试模块的详细说明"
     },
     "images" : [],
-    "application": "test",
+    "domain": "test",
     "depends": [""],
     "externalDependencies": {
         "node_module": {
