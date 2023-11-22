@@ -24,6 +24,6 @@
     "license": "Apache 2.0",
     "homepage": "https://github.com/oryon-cloud/test",
     "author": "Oryon Team <wangbuke@gmail.com> (https://github.com/oryon-cloud)",
-    "repository": "https://github.com/oryon-cloud/test.git",
+    "repository": "https://github.com/oryon-cloud/test",
     "main": "index.ts"
 }
