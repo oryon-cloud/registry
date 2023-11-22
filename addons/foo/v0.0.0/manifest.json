@@ -23,11 +23,7 @@
     },
     "license": "Apache 2.0",
     "homepage": "https://github.com/oryon-cloud/foo",
-    "author": {
-        "name": "Oryon team",
-        "email": "wangbuke@gmail.com",
-        "url": "https://github.com/oryon-cloud"
-    },
+    "author": "Oryon Team <wangbuke@gmail.com> (https://github.com/oryon-cloud)",
     "repository": "https://github.com/oryon-cloud/foo.git",
     "main": "index.ts"
 }
